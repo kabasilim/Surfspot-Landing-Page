@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Surfspot-Landing-Page
 Surfspot-Landing-Page
 Surfspot is an IT firm that consults in computer hardware and internet network services. Its motto is your trusted IT solution provider.
@@ -27,3 +28,6 @@ Surfspot does its practice in Edo state, Nigeria, covering Benin City especially
 
 SURFSPOT brand colors :
 -Green and Blue
+=======
+
+>>>>>>> 7d38997d9c714f070e3db863dfb1aad734260a57
