@@ -5,7 +5,7 @@ Surfspot is an IT firm that consults in computer hardware and internet network s
 -Broadband wireless services
 Its value packages include
 4Mbps for 16k per month
-6Mbps for 25k per month
+.6Mbps for 25k per month
 .7.5Mbps for 38k per month
 .9Mbps for 48.5k per month
 -Infrastructure Consultancy
