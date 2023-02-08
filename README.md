@@ -26,7 +26,7 @@ Superdealers in DSTV multichoice and SMILE
 SURFSPOT TARGET AUDIENCE -
 Surfspot does its practice in Edo state, Nigeria, covering Benin City especially, and venturing out to Uromi another part of Edo state.
 
-SURFSPOT brand colors :
+SURFSPOT brand colors:
 #00ff00 and #0000ff
 =======
 
