@@ -1,0 +1,48 @@
+body {
+    font-size: 16px;
+    background-color: #ffffff;
+    font-family: 'Oxygen', sans-serif;
+  }
+
+  #header-nav {
+    background-color: #bebebe;
+    border-radius: 0;
+    border: 0;
+  }
+
+  *#logo-img {
+    background: url('./image/SurfSpot_New_Logo-removebg-preview.png') no-repeat;
+    block-size:200px;
+    inline-size:530px;
+    margin: 10px 15px 10px 0;
+  }
+
+  .navbar-brand {
+    padding-block-start: 25px;
+  }
+
+  .navbar-brand p { 
+    text-shadow: 1px 1px 1px #00ff00;
+    font-family: ;
+    line-height:0;
+    margin-block-start:0;
+    margin-block-end:0;
+    color: #0000ff;
+    text-transform: uppercase;
+    font-size: 1.1em;
+    margin-block-start: 15px;
+  }
+
+  @media{
+    .navbar-toggle{
+    display: none;
+    }
+  }
+
+
+
+
+
+
+ 
+
