@@ -23,7 +23,7 @@ This covers
 
 # Superdealers in DSTV multichoice and SMILE.
 
-#SURFSPOT TARGET AUDIENCE :-
+# SURFSPOT TARGET AUDIENCE :-
 Surfspot does its practice in Edo state, Nigeria, covering Benin City especially, and venturing out to Uromi another part of Edo state.
 
 #SURFSPOT brand colors :-
