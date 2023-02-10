@@ -21,7 +21,7 @@ This covers
 -IP phones,
 -Renewable Energy.
 
-#Superdealers in DSTV multichoice and SMILE.
+# Superdealers in DSTV multichoice and SMILE.
 
 #SURFSPOT TARGET AUDIENCE :-
 Surfspot does its practice in Edo state, Nigeria, covering Benin City especially, and venturing out to Uromi another part of Edo state.
