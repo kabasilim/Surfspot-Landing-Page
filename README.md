@@ -27,7 +27,7 @@ This covers
 Surfspot does its practice in Edo state, Nigeria, covering Benin City especially, and venturing out to Uromi another part of Edo state.
 
 SURFSPOT brand colors :-
-#00ff00 and #0000ff
+00ff00 and #0000ff
 =======
 
 >>>>>>> 7d38997d9c714f070e3db863dfb1aad734260a57
