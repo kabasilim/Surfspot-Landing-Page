@@ -117,7 +117,7 @@ body {
  }
 }
 
-@media only screen and (max-inline-size:1024px) {
+@media only screen and (max-inline-size:1025px) {
   .Menu-icon{
    display: block;
    cursor: pointer;
@@ -125,12 +125,41 @@ body {
 
   .Menu-icon .line{
     background-color: #00ff00;
-    margin: 10px 0;
+    margin: 6px 0;
     inline-size:30px;
     block-size: 4px;
   }
 
-  .top-area-contacts{
+  #contacts{
     display: none;
   }
+
+  .nav-list{
+    block-size: 0;
+    position: absolute;
+    inset-block-start: 80px;
+    inset-inline-start: 0;
+    inset-inline-end: 0;
+    inline-size: 100vw;
+    background-color: #00ff00;
+    transition: 0.2s;
+    overflow: hidden;
+  }
+
+  .nav-list ul{
+    display: block;
+    inline-size: fit-content;
+    margin:80px auto 0 auto;
+    text-align: center;
+    transition: 0.5s;
+    opacity: 0;
+  }
+
+   .nav-list ul li a{
+   margin-block-end: 12px;
+   color: #00ff00;
+   }
  }
+
+
+
