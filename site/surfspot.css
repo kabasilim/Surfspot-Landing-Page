@@ -145,6 +145,13 @@ body {
     transition: 0.2s;
     overflow: hidden;
   }
+   .nav-list .active{
+    block-size: 550px;
+   }
+
+   .nav-list .active ul{
+    opacity: 1;
+   }
 
   .nav-list ul{
     display: block;
