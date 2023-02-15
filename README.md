@@ -4,7 +4,7 @@ This landing page was created using HTML5, CSS3, JavaScript.
 
 ## Value services offered
 
--Broadband wireless services
+-Broadband wireless services.
 
 -Infrastructure Consultancy.
 
