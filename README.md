@@ -36,4 +36,4 @@ This landing page was created using HTML5, CSS3, JavaScript.
 
 ## Author
 
-[Abasilim Kosisochukwu](www.linkedin.com/in/kosisochukwu-abasilim)
+[Abasilim Kosisochukwu Obaejeogu](www.linkedin.com/in/kosisochukwu-abasilim)
