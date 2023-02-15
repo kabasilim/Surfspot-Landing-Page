@@ -1,17 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Surfspot Communication
-	</title>
-<link rel="stylesheet" href="surfspot.css">
-<link href='https://fonts.googleapis.com/css?family=Oxygen:400,300,700' rel='stylesheet' type='text/css'>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Surfspot Communication
+  </title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="surfspot.css">
+  <link href='https://fonts.googleapis.com/css?family=Oxygen:400,300,700' rel='stylesheet' type='text/css'>
 </head>
 
 <body>
-	<header>
-		<nav id="header-nav" class="navbar navbar-default">
+ <nav id="header-nav" class="navbar navbar-default">
 			<div class="container-fliud">
 
 				<div id="contacts" class="top-area-contacts">
@@ -66,7 +67,13 @@
 	
 	  </header>
 
-
+	  <script>
+		Menuicon = document.querySelector(".Menu-icon");
+		Menuicon.onclick = function(){
+			navList = document.querySelector(".nav-list");
+			navList.classList.toggle("active")
+		}
+	  </script>
 
 </body>
 
