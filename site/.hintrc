@@ -24,6 +24,14 @@
       {
         "frame-title": "off"
       }
+    ],
+    "compat-api/css": [
+      "default",
+      {
+        "ignore": [
+          "inline-size: fit-content"
+        ]
+      }
     ]
   }
 }
