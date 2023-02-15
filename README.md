@@ -1,4 +1,4 @@
-git # Surfspot-Landing-Page
+ # Surfspot-Landing-Page
 
 This landing page was created using HTML5, CSS3, JavaScript. 
 
