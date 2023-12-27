@@ -1,51 +1,52 @@
 *{
-	box-sizing: border-box;
-	margin:0;
-	padding: 0;
-	text-decoration: none;
-	list-style: none;
+  box-sizing: border-box;
+  margin:0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
 }
 
 body {
-	font-size: 16px;
-	background-color: #ffffff;
-	font-family: 'Oxygen', sans-serif;
-}
-
-.Menu-icon{
-	display: none;
+    font-size: 16px;
+    background-color: #ffffff;
+    font-family: 'Oxygen', sans-serif;
   }
 
-.top-area-contacts {
-	display:block;
-	inline-size: 100%;
-	text-align: end;
-	position: absolute;
-}
+  .Menu-icon{
+    display: none;
+  }
 
-.ss-contacts-address{
-	inline-size: 55%;
-	position: absolute;
-}
+  .top-area-contacts    {
+    display:block;
+    inline-size: 100%;
+    text-align: end;
+    position: absolute;
 
-.ss-contacts-phone{
-	inline-size: 70%;
-	position: absolute;
-}
+  }
 
-.ss-contacts-email{
-	inline-size: 95%;
-}
+  .ss-contacts-address{
+    inline-size: 55%;
+    position: absolute;
+  }
 
-#header-nav {
-	background-color: #bebebe;
-	border-radius: 0;
-	border: 0;
-	inline-size: 100%;
-	block-size: 180px;
-	justify-content: space-between;
-	position: absolute;
-}
+   .ss-contacts-phone{
+    inline-size: 70%;
+    position: absolute;
+   }
+
+   .ss-contacts-email{
+   inline-size: 95%;
+   }
+
+  #header-nav {
+    background-color: #bebebe;
+    border-radius: 0;
+    border: 0;
+    inline-size: 100%;
+    block-size: 180px;
+    justify-content: space-between;
+    position: absolute;
+  }
 
   #logo-img {
     background: url('./image/Mew.png') no-repeat;
