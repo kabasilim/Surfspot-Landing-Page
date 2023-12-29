@@ -1,33 +1,39 @@
-<<<<<<< HEAD
 # Surfspot-Landing-Page
-Surfspot-Landing-Page
-Surfspot is an IT firm that consults in computer hardware and internet network services. Its motto is your trusted IT solution provider.
 
-VALUE SERVICES
+This landing page was created using HTML5, CSS3, JavaScript. 
 
-Broadband wireless services:
-Its value packages include
--4Mbps for 16k per month,
--6Mbps for 25k per month,
--7.5Mbps for 38k per month,
--9Mbps for 48.5k per month.
+## Value services offered
 
-Infrastructure Consultancy:
-This covers
--Network design and Network operations center,
--Intercom systems,
--Intranet,
--HD CCTV surveillance,
--IP phones,
--Renewable Energy,
+-Broadband wireless services.
 
-Superdealers in DSTV multichoice and SMILE
+-Infrastructure Consultancy.
 
-SURFSPOT TARGET AUDIENCE -
-Surfspot does its practice in Edo state, Nigeria, covering Benin City especially, and venturing out to Uromi another part of Edo state.
+-Superdealers in DSTV multichoice and SMILE.
 
-SURFSPOT brand colors :
-#00ff00 and #0000ff
-=======
+### Surfspot brand colors
 
->>>>>>> 7d38997d9c714f070e3db863dfb1aad734260a57
+-Green(48B947).
+
+-Blue(253895).
+
+## Progamming Languages
+
+-HTML5.
+
+-CSS3.
+
+-JavaScript. 
+
+## How to use
+
+-Clone surfspot landing page repository on your local device
+
+-Select a branch
+
+-Open the HTML page on any IDE
+
+-Run with a local server e.g Browser sync, Liveserver or anyother.
+
+## Author
+
+[Abasilim Kosisochukwu Obaejeogu](www.linkedin.com/in/kosisochukwu-abasilim)
