@@ -1,16 +1,73 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Surfspot Communication
-	</title>
-<link rel="stylesheet" href="surfspot.css">
-<link href='https://fonts.googleapis.com/css?family=Oxygen:400,300,700' rel='stylesheet' type='text/css'>
+	<title>Surfspot Communication</title>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="surfspot.css">
+	<link href='https://fonts.googleapis.com/css?family=Oxygen:400,300,700' rel='stylesheet' type='text/css'>
 </head>
 
 <body>
-
+	<div><img src="C:\Users\hp\Surfspot-Landing-Page\site\image\New_Logo.png" /></div>
+	<div class="main">
+		<div class="contranier-fluid">
+			<div id="contacts" class="top-area-contacts">
+				<div class="contacts">
+					<div class="contacts-address">
+						<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+							class="bi bi-geo-alt-fill" viewBox="0 0 16 16">
+							<path
+								d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10zm0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6z" />
+						</svg> 10 Aimure Avenue,off Ihama Road, GRA Benin City, Edo State.
+					</div>
+					<div class="contacts-phone">
+						<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+							class="bi bi-telephone-fill" viewBox="0 0 16 16">
+							<path fill-rule="evenodd"
+								d="M1.885.511a1.745 1.745 0 0 1 2.61.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.678.678 0 0 0 .178.643l2.457 2.457a.678.678 0 0 0 .644.178l2.189-.547a1.745 1.745 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.634 18.634 0 0 1-7.01-4.42 18.634 18.634 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877L1.885.511z" />
+						</svg> +234xxxxxxxxxx, +234xxxxxxxxxx, +234xxxxxxxxxx, +234Xxxxxxxx.
+					</div>
+					<div class="contacts-email">
+						<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+							class="bi bi-envelope-fill" viewBox="0 0 16 16">
+							<path
+								d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555ZM0 4.697v7.104l5.803-3.558L0 4.697ZM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757Zm3.436-.586L16 11.801V4.697l-5.803 3.546Z" />
+						</svg>
+						<a herf=""> info@surfspotonline.com</a>
+					</div>
+				</div><!-- End of class=ss-contact -->
+			</div><!-- End of id=contact -->
+			<a href="sufspot.html" class="visible-sm visible-md visible-lg">
+				<p id="logo-img"></p>
+			</a>
+			<div class="line">
+				<div class="nav-list">
+					<div class="navbar-brand">
+						<p>Your trusted It solution.</p>
+					</div>
+				</div>
+				<div class="Menu-icon">
+					<ul>
+						<li><a href="sufspot.html" class="active">Home</a></li>
+						<li><a href="#">Company</a></li>
+						<li><a href="#">Infrastructure</a></li>
+						<li><a href="#">Services</a></li>
+						<li><a href="#" target="_blank">Selfcare</a></li>
+					</ul>
+				</div>
+			</div>
+		</div><!-- End of contranfier-fluid div -->
+	</div><!-- End of main -->
+	<script>
+		Menuicon = document.querySelector(".Menu-icon");
+		Menuicon.onclick = function () {
+			navList = document.querySelector(".nav-list");
+			navList.classList.toggle("active");
+		}
+	</script>
 </body>
 
 </html>
