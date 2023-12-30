@@ -14,7 +14,7 @@ This landing page was created using HTML5, CSS3, JavaScript.
 
 ### Surfspot brand colors
 
-- (48B947).
+- (48B947)
 
 - (253895).
 
