@@ -16,7 +16,7 @@ This landing page was created using HTML5, CSS3, JavaScript.
 
 - (48B947)
 
-- (253895).
+- (253895)
 
 ## Progamming Languages
 
